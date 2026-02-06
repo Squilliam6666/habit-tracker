@@ -23,7 +23,7 @@ const INITIAL_HABITS = [
   { id: '3', name: '📚 Read', description: 'Read for 20 minutes', completed: false },
   { id: '4', name: '🧘 Meditate', description: '10 minutes meditation', completed: false },
   { id: '5', name: '🥗 Eat Healthy', description: 'Include vegetables', completed: false },
-  
+  { id: '6', name: 'School Assignments', description: 'Complete class works or assignments', completed: false}
 
 ];
 
